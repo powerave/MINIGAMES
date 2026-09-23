@@ -1,5 +1,7 @@
-Just use the command: make
+Because we like to have fun while learning!
 
-play the game
+Some minigames you can play directly in your terminal!
 
-to clear all the files after playing use :  make fclean 
+just use classic Makefile commands (make, make re, make clean, make fclean)
+
+Enjoyy :))
